@@ -6,7 +6,7 @@
 //
 
 import SQLite
-import sqlite3
+import SQLiteC
 import Amplify
 
 /// Checks for specific SQLLite error codes
