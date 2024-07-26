@@ -12,7 +12,7 @@ import SQLite
 @testable import AmplifyTestCommon
 @testable import AWSDataStorePlugin
 @testable import AWSPluginsCore
-import SQLite3
+import sqlite3
 
 class SQLiteMutationSyncMetadataMigrationValidationTests: MutationSyncMetadataMigrationTestBase {
 

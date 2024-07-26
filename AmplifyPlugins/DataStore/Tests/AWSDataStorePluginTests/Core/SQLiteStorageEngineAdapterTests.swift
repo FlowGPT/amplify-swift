@@ -7,7 +7,7 @@
 
 import XCTest
 import SQLite
-import SQLite3
+import sqlite3
 
 @testable import Amplify
 @testable import AWSPluginsCore
